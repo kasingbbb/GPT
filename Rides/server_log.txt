@@ -1,0 +1,355 @@
+[21068] 01 Dec 10:40:13.278 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[21068] 01 Dec 10:40:13.280 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=21068, just started
+[21068] 01 Dec 10:40:13.280 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 21068
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[21068] 01 Dec 10:40:13.323 # Server initialized
+[21068] 01 Dec 10:40:13.324 * Ready to accept connections
+[21068] 01 Dec 10:55:14.073 * 1 changes in 900 seconds. Saving...
+[21068] 01 Dec 10:55:14.133 * Background saving started by pid 26184
+[21068] 01 Dec 10:55:14.464 # fork operation complete
+[21068] 01 Dec 10:55:14.485 * Background saving terminated with success
+[21068] 01 Dec 11:01:18.049 * 10 changes in 300 seconds. Saving...
+[21068] 01 Dec 11:01:18.209 * Background saving started by pid 26004
+[21068] 01 Dec 11:01:18.959 # fork operation complete
+[21068] 01 Dec 11:01:19.000 * Background saving terminated with success
+[21068] 01 Dec 11:12:59.765 * 10 changes in 300 seconds. Saving...
+[21068] 01 Dec 11:12:59.865 * Background saving started by pid 17668
+[21068] 01 Dec 11:13:00.310 # fork operation complete
+[21068] 01 Dec 11:13:00.327 * Background saving terminated with success
+[21068] 01 Dec 11:20:12.256 * 10 changes in 300 seconds. Saving...
+[21068] 01 Dec 11:20:12.353 * Background saving started by pid 18008
+[21068] 01 Dec 11:20:12.788 # fork operation complete
+[21068] 01 Dec 11:20:12.800 * Background saving terminated with success
+[21068] 01 Dec 11:35:13.117 * 1 changes in 900 seconds. Saving...
+[21068] 01 Dec 11:35:13.222 * Background saving started by pid 23708
+[21068] 01 Dec 11:35:13.623 # fork operation complete
+[21068] 01 Dec 11:35:13.634 * Background saving terminated with success
+[21068] 01 Dec 11:50:14.060 * 1 changes in 900 seconds. Saving...
+[21068] 01 Dec 11:50:14.135 * Background saving started by pid 1920
+[21068] 01 Dec 11:50:14.836 # fork operation complete
+[21068] 01 Dec 11:50:14.849 * Background saving terminated with success
+[21068] 01 Dec 12:05:15.078 * 1 changes in 900 seconds. Saving...
+[21068] 01 Dec 12:05:15.177 * Background saving started by pid 28284
+[21068] 01 Dec 12:05:15.578 # fork operation complete
+[21068] 01 Dec 12:05:15.590 * Background saving terminated with success
+[4952] 01 Dec 15:04:05.567 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4952] 01 Dec 15:04:05.601 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4952, just started
+[4952] 01 Dec 15:04:05.601 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4952
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4952] 01 Dec 15:04:05.608 # Server initialized
+[4952] 01 Dec 15:04:05.616 * DB loaded from disk: 0.007 seconds
+[4952] 01 Dec 15:04:05.616 * Ready to accept connections
+[4644] 01 Dec 15:04:45.060 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4644] 01 Dec 15:04:45.076 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4644, just started
+[4644] 01 Dec 15:04:45.076 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4644
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4644] 01 Dec 15:04:45.107 # Server initialized
+[4644] 01 Dec 15:04:45.123 * DB loaded from disk: 0.010 seconds
+[4644] 01 Dec 15:04:45.123 * Ready to accept connections
+[4644] 01 Dec 15:27:58.627 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 15:27:58.696 * Background saving started by pid 2132
+[4644] 01 Dec 15:27:59.340 # fork operation complete
+[4644] 01 Dec 15:27:59.369 * Background saving terminated with success
+[4644] 01 Dec 15:43:00.098 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 15:43:00.157 * Background saving started by pid 6908
+[4644] 01 Dec 15:43:00.758 # fork operation complete
+[4644] 01 Dec 15:43:00.769 * Background saving terminated with success
+[4644] 01 Dec 16:12:30.123 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 16:12:30.174 * Background saving started by pid 16804
+[4644] 01 Dec 16:12:31.076 # fork operation complete
+[4644] 01 Dec 16:12:31.104 * Background saving terminated with success
+[4644] 01 Dec 16:19:50.837 * 10 changes in 300 seconds. Saving...
+[4644] 01 Dec 16:19:50.888 * Background saving started by pid 14000
+[4644] 01 Dec 16:19:51.322 # fork operation complete
+[4644] 01 Dec 16:19:51.329 * Background saving terminated with success
+[4644] 01 Dec 16:31:22.172 * 10 changes in 300 seconds. Saving...
+[4644] 01 Dec 16:31:22.207 * Background saving started by pid 9768
+[4644] 01 Dec 16:31:22.640 # fork operation complete
+[4644] 01 Dec 16:31:22.662 * Background saving terminated with success
+[4644] 01 Dec 16:46:23.095 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 16:46:23.114 * Background saving started by pid 14888
+[4644] 01 Dec 16:46:23.414 # fork operation complete
+[4644] 01 Dec 16:46:23.423 * Background saving terminated with success
+[4644] 01 Dec 17:09:10.514 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 17:09:10.564 * Background saving started by pid 10784
+[4644] 01 Dec 17:09:11.101 # fork operation complete
+[4644] 01 Dec 17:09:11.153 * Background saving terminated with success
+[4644] 01 Dec 20:10:18.697 * 1 changes in 900 seconds. Saving...
+[4644] 01 Dec 20:10:22.075 * Background saving started by pid 16736
+[4644] 01 Dec 20:10:22.376 # fork operation complete
+[4644] 01 Dec 20:10:22.382 * Background saving terminated with success
+[4644] 04 Dec 10:19:54.140 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 10:19:54.262 * Background saving started by pid 13856
+[4644] 04 Dec 10:19:55.133 # fork operation complete
+[4644] 04 Dec 10:19:55.163 * Background saving terminated with success
+[4644] 04 Dec 10:29:08.378 * 10 changes in 300 seconds. Saving...
+[4644] 04 Dec 10:29:08.461 * Background saving started by pid 19004
+[4644] 04 Dec 10:29:09.162 # fork operation complete
+[4644] 04 Dec 10:29:09.191 * Background saving terminated with success
+[4644] 04 Dec 10:44:10.008 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 10:44:10.076 * Background saving started by pid 14852
+[4644] 04 Dec 10:44:10.676 # fork operation complete
+[4644] 04 Dec 10:44:10.691 * Background saving terminated with success
+[4644] 04 Dec 10:59:11.008 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 10:59:11.054 * Background saving started by pid 13168
+[4644] 04 Dec 10:59:11.855 # fork operation complete
+[4644] 04 Dec 10:59:11.873 * Background saving terminated with success
+[4644] 04 Dec 11:10:56.652 * 10 changes in 300 seconds. Saving...
+[4644] 04 Dec 11:10:56.736 * Background saving started by pid 13908
+[4644] 04 Dec 11:10:57.619 # fork operation complete
+[4644] 04 Dec 11:10:57.647 * Background saving terminated with success
+[4644] 04 Dec 11:25:58.066 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 11:25:58.145 * Background saving started by pid 18132
+[4644] 04 Dec 11:25:59.259 # fork operation complete
+[4644] 04 Dec 11:25:59.336 * Background saving terminated with success
+[4644] 04 Dec 11:33:49.805 * 10 changes in 300 seconds. Saving...
+[4644] 04 Dec 11:33:49.870 * Background saving started by pid 3984
+[4644] 04 Dec 11:33:50.740 # fork operation complete
+[4644] 04 Dec 11:33:50.766 * Background saving terminated with success
+[4644] 04 Dec 11:48:51.023 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 11:48:51.115 * Background saving started by pid 20900
+[4644] 04 Dec 11:48:51.555 # fork operation complete
+[4644] 04 Dec 11:48:51.566 * Background saving terminated with success
+[4644] 04 Dec 12:03:52.081 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 12:03:52.100 * Background saving started by pid 9808
+[4644] 04 Dec 12:03:52.320 # fork operation complete
+[4644] 04 Dec 12:03:52.329 * Background saving terminated with success
+[4644] 04 Dec 12:18:53.043 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 12:18:53.057 * Background saving started by pid 22460
+[4644] 04 Dec 12:18:53.277 # fork operation complete
+[4644] 04 Dec 12:18:53.289 * Background saving terminated with success
+[4644] 04 Dec 13:34:01.669 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 13:34:05.104 * Background saving started by pid 19108
+[4644] 04 Dec 13:34:05.436 # fork operation complete
+[4644] 04 Dec 13:34:05.447 * Background saving terminated with success
+[4644] 04 Dec 13:49:06.111 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 13:49:06.191 * Background saving started by pid 14508
+[4644] 04 Dec 13:49:06.962 # fork operation complete
+[4644] 04 Dec 13:49:06.983 * Background saving terminated with success
+[4644] 04 Dec 13:57:34.060 * 10 changes in 300 seconds. Saving...
+[4644] 04 Dec 13:57:34.118 * Background saving started by pid 14308
+[4644] 04 Dec 13:57:34.777 # fork operation complete
+[4644] 04 Dec 13:57:34.796 * Background saving terminated with success
+[4644] 04 Dec 14:12:35.068 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 14:12:35.099 * Background saving started by pid 22108
+[4644] 04 Dec 14:12:38.302 # fork operation complete
+[4644] 04 Dec 14:12:38.315 * Background saving terminated with success
+[4644] 04 Dec 17:43:54.219 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 17:43:54.346 * Background saving started by pid 7472
+[4644] 04 Dec 17:43:55.465 # fork operation complete
+[4644] 04 Dec 17:43:55.543 * Background saving terminated with success
+[4644] 04 Dec 18:45:34.385 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 18:45:34.500 * Background saving started by pid 19520
+[4644] 04 Dec 18:45:35.155 # fork operation complete
+[4644] 04 Dec 18:45:35.177 * Background saving terminated with success
+[4644] 04 Dec 18:50:36.079 * 10 changes in 300 seconds. Saving...
+[4644] 04 Dec 18:50:36.181 * Background saving started by pid 20440
+[4644] 04 Dec 18:50:37.182 # fork operation complete
+[4644] 04 Dec 18:50:37.203 * Background saving terminated with success
+[4644] 04 Dec 19:13:59.369 * 1 changes in 900 seconds. Saving...
+[4644] 04 Dec 19:13:59.439 * Background saving started by pid 15932
+[4644] 04 Dec 19:14:00.038 # fork operation complete
+[4644] 04 Dec 19:14:00.054 * Background saving terminated with success
+[4644] 06 Dec 13:48:45.489 * 1 changes in 900 seconds. Saving...
+[4644] 06 Dec 13:48:45.571 * Background saving started by pid 19872
+[4644] 06 Dec 13:48:46.002 # fork operation complete
+[4644] 06 Dec 13:48:46.020 * Background saving terminated with success
+[4644] 06 Dec 14:03:47.027 * 1 changes in 900 seconds. Saving...
+[4644] 06 Dec 14:03:47.082 * Background saving started by pid 24608
+[4644] 06 Dec 14:03:47.682 # fork operation complete
+[4644] 06 Dec 14:03:47.694 * Background saving terminated with success
+[4708] 13 Dec 16:16:26.948 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4708] 13 Dec 16:16:26.963 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4708, just started
+[4708] 13 Dec 16:16:26.963 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4708
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4708] 13 Dec 16:16:26.967 # Server initialized
+[4708] 13 Dec 16:16:26.978 * DB loaded from disk: 0.006 seconds
+[4708] 13 Dec 16:16:26.978 * Ready to accept connections
+[4848] 13 Dec 16:17:04.246 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4848] 13 Dec 16:17:04.287 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4848, just started
+[4848] 13 Dec 16:17:04.287 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4848
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4848] 13 Dec 16:17:04.325 # Server initialized
+[4848] 13 Dec 16:17:04.340 * DB loaded from disk: 0.018 seconds
+[4848] 13 Dec 16:17:04.340 * Ready to accept connections
+[4804] 03 Jan 18:04:20.737 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4804] 03 Jan 18:04:20.757 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4804, just started
+[4804] 03 Jan 18:04:20.762 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4804
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4804] 03 Jan 18:04:20.767 # Server initialized
+[4804] 03 Jan 18:04:20.778 * DB loaded from disk: 0.008 seconds
+[4804] 03 Jan 18:04:20.778 * Ready to accept connections
+[4848] 08 Jan 09:50:51.919 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4848] 08 Jan 09:50:52.019 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4848, just started
+[4848] 08 Jan 09:50:52.019 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4848
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4848] 08 Jan 09:50:52.074 # Server initialized
+[4848] 08 Jan 09:50:52.096 * DB loaded from disk: 0.022 seconds
+[4848] 08 Jan 09:50:52.096 * Ready to accept connections
+[4848] 09 Jan 20:41:40.987 * 1 changes in 900 seconds. Saving...
+[4848] 09 Jan 20:41:41.562 * Background saving started by pid 20808
+[4848] 09 Jan 20:41:42.312 # fork operation complete
+[4848] 09 Jan 20:41:42.337 * Background saving terminated with success
+[4848] 09 Jan 20:56:43.018 * 1 changes in 900 seconds. Saving...
+[4848] 09 Jan 20:56:43.041 * Background saving started by pid 15720
+[4848] 09 Jan 20:56:43.342 # fork operation complete
+[4848] 09 Jan 20:56:43.355 * Background saving terminated with success
+[4848] 09 Jan 21:08:02.993 * 10 changes in 300 seconds. Saving...
+[4848] 09 Jan 21:08:03.043 * Background saving started by pid 10424
+[4848] 09 Jan 21:08:03.356 # fork operation complete
+[4848] 09 Jan 21:08:03.392 * Background saving terminated with success
+[4848] 09 Jan 21:23:04.087 * 1 changes in 900 seconds. Saving...
+[4848] 09 Jan 21:23:04.107 * Background saving started by pid 12796
+[4848] 09 Jan 21:23:04.407 # fork operation complete
+[4848] 09 Jan 21:23:04.417 * Background saving terminated with success
+[4848] 10 Jan 10:11:28.490 * 1 changes in 900 seconds. Saving...
+[4848] 10 Jan 10:11:28.687 * Background saving started by pid 14948
+[4848] 10 Jan 10:11:29.537 # fork operation complete
+[4848] 10 Jan 10:11:29.546 * Background saving terminated with success
+[4848] 10 Jan 10:26:30.009 * 1 changes in 900 seconds. Saving...
+[4848] 10 Jan 10:26:30.063 * Background saving started by pid 3380
+[4848] 10 Jan 10:26:30.764 # fork operation complete
+[4848] 10 Jan 10:26:30.783 * Background saving terminated with success
+[4676] 11 Jan 13:41:10.841 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+[4676] 11 Jan 13:41:10.857 # Redis version=5.0.14.1, bits=64, commit=ec77f72d, modified=0, pid=4676, just started
+[4676] 11 Jan 13:41:10.857 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 5.0.14.1 (ec77f72d/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 4676
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4676] 11 Jan 13:41:10.872 # Server initialized
+[4676] 11 Jan 13:41:10.880 * DB loaded from disk: 0.006 seconds
+[4676] 11 Jan 13:41:10.880 * Ready to accept connections
